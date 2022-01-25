@@ -1,4 +1,4 @@
-#FPS GAME 
+FPS GAME 
 
 First Person game, Echo of the Aliens using Unity 
 Created this game using Unity and C# (for coding).
